@@ -2,6 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/00wip-cybersecurity-lecture-overview/</loc>
+  </url><url>
+    <loc>http://localhost:1313/about-page/</loc>
+  </url><url>
+    <loc>http://localhost:1313/for-other-developers/</loc>
+  </url><url>
+    <loc>http://localhost:1313/homepage/</loc>
+  </url><url>
+    <loc>http://localhost:1313/learning-ai/</loc>
+  </url><url>
+    <loc>http://localhost:1313/personal-knowledge-management-and-leveraging-ai-tools-in-work-and-personal-life/</loc>
+  </url><url>
+    <loc>http://localhost:1313/phishing-awareness/</loc>
+  </url><url>
+    <loc>http://localhost:1313/wip-cybersecurity-workshop-page/</loc>
+  </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/</loc>
