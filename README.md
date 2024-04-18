@@ -44,3 +44,10 @@ cd my-hugo-site
 ## TODOS
 run these comands
 
+hugo new posts/home.md
+hugo new posts/about.md
+hugo new posts/workshops.md
+hugo new posts/phishing-awareness.md
+hugo new posts/learning-ai.md
+hugo new posts/for-developers.md
+
