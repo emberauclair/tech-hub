@@ -39,3 +39,8 @@ hugo new posts/<filename>.md
 to run:
 new terminal vs code
 cd my-hugo-site
+
+
+## TODOS
+run these comands
+
