@@ -1,5 +1,5 @@
 ---
-author: Amber Padgett, OPENAI
+author: Amber Padgett; OPENAI
 date: 2024-04-18 19:41
 ---
 
