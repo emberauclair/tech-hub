@@ -1,3 +1,9 @@
+---
+author: Amber Padgett, OPENAI
+date: 2024-04-18 19:41
+---
+
+
 # My Hugo Site
 
 Welcome to the repository for my personal website built with [Hugo](https://gohugo.io/) and the [Hugo Paper theme](https://github.com/nanxiaobei/hugo-paper).
@@ -30,3 +36,10 @@ hugo new posts/<filename>.md
 5. **Learning AI** - Planned link `/learning-ai`
 6. **For Developers** - Planned link `/for-developers`
 
+
+
+## !!!!!!!!!!!!!!!!!!!!!!!!!!!!
+## TO RUN !!!
+to run:
+new terminal vs code
+cd my-hugo-site
