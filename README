@@ -3,7 +3,6 @@ author: Amber Padgett, OPENAI
 date: 2024-04-18 19:41
 ---
 
-
 # My Hugo Site
 
 Welcome to the repository for my personal website built with [Hugo](https://gohugo.io/) and the [Hugo Paper theme](https://github.com/nanxiaobei/hugo-paper).
@@ -21,12 +20,11 @@ To get started with this project, clone this repository and all its submodules:
 ```bash
 git clone --recurse-submodules https://github.com/<your-username>/<your-repo>.git
 cd <your-repo>
-
+cd my-hugo-site
 
 ## new files
 
 hugo new posts/<filename>.md
-
 
 ## Schema
 1. **Home** - Link to homepage
@@ -35,8 +33,6 @@ hugo new posts/<filename>.md
 4. **Phishing Awareness** - Planned link `/phishing`
 5. **Learning AI** - Planned link `/learning-ai`
 6. **For Developers** - Planned link `/for-developers`
-
-
 
 ## !!!!!!!!!!!!!!!!!!!!!!!!!!!!
 ## TO RUN !!!
