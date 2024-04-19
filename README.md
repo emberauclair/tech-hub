@@ -38,7 +38,7 @@ hugo new posts/<filename>.md
 to run:
 new terminal vs code
 cd my-hugo-site
-hugo server -d 
+hugo -d server
 
 
 ## DONE COMMANDS 2024.04.18 08.00 PM 
