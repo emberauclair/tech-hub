@@ -1,0 +1,377 @@
+<!doctype html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html
+  class="not-ready lg:text-base"
+  style="--bg: #faf8f1"
+  lang="en-us"
+>
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1, shrink-to-fit=no"
+  />
+
+  
+  <title>Home - Tech Hub</title>
+
+  
+  <meta name="theme-color" />
+
+  
+  
+  
+  
+  <meta name="description" content="Home Page Welcome to My Tech Resources Learn to protect your digital life effectively. Join us for an engaging workshop where you&rsquo;ll learn the essentials of protecting your digital presence.
+What You Will Learn: Understanding Cyber Threats: Explore how AI and quantum computing shape modern cybersecurity threats. Essential Tools: Learn to secure your passwords against AI-powered attacks using tools like Bitwarden. DiceWare: Create robust, yet memorable passwords. Phishing Awareness: Identify and avoid deceptive phishing attacks." />
+  <meta name="author" content="Amber Padgett" />
+  
+
+  
+  
+  
+  
+  
+  
+  <link rel="preload stylesheet" as="style" href="http://localhost:1313/main.min.css" />
+
+  
+  
+  
+  
+  
+  <link rel="preload" as="image" href="http://localhost:1313/theme.png" />
+
+  
+  
+  
+  
+  
+
+  
+  
+  <link rel="preload" as="image" href="http://localhost:1313/github.svg" />
+  
+  <link rel="preload" as="image" href="http://localhost:1313/rss.svg" />
+  
+  
+
+  
+  
+  <script
+    defer
+    src="http://localhost:1313/highlight.min.js"
+    onload="hljs.initHighlightingOnLoad();"
+  ></script>
+  
+
+  
+  
+  
+  <link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/katex@0.16.7/dist/katex.min.css"
+  integrity="sha384-3UiQGuEI4TTMaFmGIZumfRPtfKQ3trwQE2JgosJxCnGmQpL/lJdjpcHkaaFwHlcI"
+  crossorigin="anonymous"
+/>
+<script
+  defer
+  src="https://cdn.jsdelivr.net/npm/katex@0.16.7/dist/katex.min.js"
+  integrity="sha384-G0zcxDFp5LWZtDuRMnBkk3EphCK1lhEf4UEyEM693ka574TZGwo4IWwS6QLzM/2t"
+  crossorigin="anonymous"
+></script>
+<script
+  defer
+  src="https://cdn.jsdelivr.net/npm/katex@0.16.7/dist/contrib/auto-render.min.js"
+  integrity="sha384-+VBxd3r6XgURycqtZ117nYw44OOcIax56Z4dCRWbxyPt0Koah1uHoK0o4+/RRE05"
+  crossorigin="anonymous"
+></script>
+
+<script>
+  document.addEventListener('DOMContentLoaded', () =>
+    renderMathInElement(document.body, {
+      
+      
+      delimiters: [
+        { left: '$$', right: '$$', display: true },
+        { left: '$', right: '$', display: false },
+      ],
+      
+      throwOnError: false,
+    }),
+  );
+</script>
+
+  
+  
+  
+
+  
+  <link rel="icon" href="http://localhost:1313/favicon.ico" />
+  <link rel="apple-touch-icon" href="http://localhost:1313/apple-touch-icon.png" />
+
+  
+  <meta name="generator" content="Hugo 0.125.0">
+
+  
+  
+  
+</head>
+
+  <body class="text-black duration-200 ease-out dark:text-white">
+    <header class="mx-auto flex h-[4.5rem] max-w-3xl px-8 lg:justify-center">
+  <div class="relative z-50 mr-auto flex items-center">
+    <a
+      class="-translate-x-[1px] -translate-y-[1px] text-2xl font-semibold"
+      href="http://localhost:1313/"
+      >Tech Hub</a
+    >
+    <div
+      class="btn-dark text-[0] ml-4 h-6 w-6 shrink-0 cursor-pointer [background:url(./theme.png)_left_center/_auto_theme('spacing.6')_no-repeat] [transition:_background-position_0.4s_steps(5)] dark:[background-position:right]"
+      role="button"
+      aria-label="Dark"
+    ></div>
+  </div>
+
+  <div
+    class="btn-menu relative z-50 -mr-8 flex h-[4.5rem] w-[5rem] shrink-0 cursor-pointer flex-col items-center justify-center gap-2.5 lg:hidden"
+    role="button"
+    aria-label="Menu"
+  ></div>
+
+  
+
+  <script>
+    
+    const htmlClass = document.documentElement.classList;
+    setTimeout(() => {
+      htmlClass.remove('not-ready');
+    }, 10);
+
+    
+    const btnMenu = document.querySelector('.btn-menu');
+    btnMenu.addEventListener('click', () => {
+      htmlClass.toggle('open');
+    });
+
+    
+    const metaTheme = document.querySelector('meta[name="theme-color"]');
+    const lightBg = '#faf8f1'.replace(/"/g, '');
+    const setDark = (isDark) => {
+      metaTheme.setAttribute('content', isDark ? '#000' : lightBg);
+      htmlClass[isDark ? 'add' : 'remove']('dark');
+      localStorage.setItem('dark', isDark);
+    };
+
+    
+    const darkScheme = window.matchMedia('(prefers-color-scheme: dark)');
+    if (htmlClass.contains('dark')) {
+      setDark(true);
+    } else {
+      const darkVal = localStorage.getItem('dark');
+      setDark(darkVal ? darkVal === 'true' : darkScheme.matches);
+    }
+
+    
+    darkScheme.addEventListener('change', (event) => {
+      setDark(event.matches);
+    });
+
+    
+    const btnDark = document.querySelector('.btn-dark');
+    btnDark.addEventListener('click', () => {
+      setDark(localStorage.getItem('dark') !== 'true');
+    });
+  </script>
+
+  <div
+    class="nav-wrapper fixed inset-x-0 top-full z-40 flex h-full select-none flex-col justify-center pb-16 duration-200 dark:bg-black lg:static lg:h-auto lg:flex-row lg:!bg-transparent lg:pb-0 lg:transition-none"
+  >
+    
+    
+
+    
+    <nav
+      class="mt-12 flex justify-center space-x-10 dark:invert lg:ml-12 lg:mt-0 lg:items-center lg:space-x-6"
+    >
+      
+      <a
+        class="h-8 w-8 text-[0] [background:var(--url)_center_center/cover_no-repeat] lg:h-6 lg:w-6"
+        style="--url: url(./github.svg)"
+        href="https://github.com/https://github.com/emberauclair"
+        target="_blank"
+        rel="me"
+      >
+        github
+      </a>
+      
+      <a
+        class="h-8 w-8 text-[0] [background:var(--url)_center_center/cover_no-repeat] lg:h-6 lg:w-6"
+        style="--url: url(./rss.svg)"
+        href="http://localhost:1313/index.xml"
+        target="_blank"
+        rel="alternate"
+      >
+        rss
+      </a>
+      
+    </nav>
+    
+  </div>
+</header>
+
+
+    <main
+      class="prose prose-neutral relative mx-auto min-h-[calc(100%-9rem)] max-w-3xl px-8 pb-16 pt-12 dark:prose-invert"
+    >
+      
+
+<article>
+  <header class="mb-16">
+    <h1 class="!my-0 pb-2.5">Home</h1>
+
+    
+    <div class="text-sm antialiased opacity-60">
+      
+      <time>Apr 18, 2024</time>
+      
+      
+      
+      
+    </div>
+    
+  </header>
+
+  <section><h1 id="home-page">Home Page</h1>
+<h2 id="welcome-to-my-tech-resources">Welcome to My Tech Resources</h2>
+<p>Learn to protect your digital life effectively. Join us for an engaging workshop where you&rsquo;ll learn the essentials of protecting your digital presence.</p>
+<h3 id="what-you-will-learn">What You Will Learn:</h3>
+<ul>
+<li><strong>Understanding Cyber Threats:</strong> Explore how AI and quantum computing shape modern cybersecurity threats.</li>
+<li><strong>Essential Tools:</strong> Learn to secure your passwords against AI-powered attacks using tools like Bitwarden.</li>
+<li><strong>DiceWare:</strong> Create robust, yet memorable passwords.</li>
+<li><strong>Phishing Awareness:</strong> Identify and avoid deceptive phishing attacks.</li>
+<li><strong>VPN Usage:</strong> Protect your data online using a VPN.</li>
+</ul>
+<h3 id="special-offer">Special Offer:</h3>
+<p>Attendees will receive subsidized VPN coverage to enhance their online security.</p>
+<h3 id="rsvp">RSVP:</h3>
+<p>Secure your spot today to take control of your digital security!
+<a href="https://tinyurl.com/cyber-security-signup">RSVP Here</a></p>
+<h2 id="connect">Connect</h2>
+<p>For more information or to get involved, contact us at:</p>
+<ul>
+<li><strong>Email:</strong> <a href="mailto:calyxpadgett@gmail.com">calyxpadgett@gmail.com</a></li>
+<li><strong>Partner:</strong> <a href="https://aliforneycenter.org">Ali Forney Center</a></li>
+</ul>
+<h2 id="contacts">Contacts</h2>
+<ul>
+<li><strong>Address:</strong> 307 W 38th St, Third Floor, New York, NY</li>
+<li><strong>Email:</strong> <a href="mailto:calyxpadgett@gmail.com">calyxpadgett@gmail.com</a></li>
+</ul>
+<h2 id="explore-more">Explore More</h2>
+<ul>
+<li><strong>[[V5 About Page]]</strong>: Learn more about our mission and vision.</li>
+<li><strong><a href="#">Cyber Security Workshop</a></strong>: Dive deeper into our cybersecurity workshop details.</li>
+<li><strong><a href="#">Phishing Awareness</a></strong>: Get more resources on identifying phishing schemes.</li>
+<li><strong><a href="#">Learning AI and Applications</a></strong>: Discover how AI can be leveraged in technology and beyond.</li>
+<li><strong><a href="#">Learning Science and Applications</a></strong>: Explore scientific principles and their applications in everyday tech.</li>
+<li><strong><a href="#">Learning Design and Applications</a></strong>: Understand the impact of design in technology and how to apply it creatively.</li>
+</ul>
+</section>
+
+  
+  
+
+  
+  
+  
+  
+  <nav class="mt-24 flex rounded-lg bg-black/[3%] text-lg dark:bg-white/[8%]">
+    
+    <a
+      class="flex w-1/2 items-center rounded-l-md p-6 pr-3 font-semibold no-underline hover:bg-black/[2%] dark:hover:bg-white/[3%]"
+      href="http://localhost:1313/posts/about/"
+      ><span class="mr-1.5">←</span><span>About</span></a
+    >
+    
+    
+    <a
+      class="ml-auto flex w-1/2 items-center justify-end rounded-r-md p-6 pl-3 font-semibold no-underline hover:bg-black/[2%] dark:hover:bg-white/[3%]"
+      href="http://localhost:1313/posts/workshops/"
+      ><span>Workshops</span><span class="ml-1.5">→</span></a
+    >
+    
+  </nav>
+  
+  
+
+  
+  
+
+  
+  
+
+  
+
+
+  
+</article>
+
+
+    </main>
+
+    <footer
+  class="opaco mx-auto flex h-[4.5rem] max-w-3xl items-center px-8 text-[0.9em] opacity-60"
+>
+  <div class="mr-auto">
+    &copy; 2024
+    <a class="link" href="http://localhost:1313/">Tech Hub</a>
+  </div>
+  <a class="link mx-6" href="https://gohugo.io/" rel="noopener" target="_blank"
+    >Powered by Hugo️️</a
+  >️
+  <a
+    class="link"
+    href="https://github.com/nanxiaobei/hugo-paper"
+    rel="noopener"
+    target="_blank"
+    >✎ Paper</a
+  >
+</footer>
+
+  </body>
+</html>
