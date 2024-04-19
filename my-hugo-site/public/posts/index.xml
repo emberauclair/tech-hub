@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
+    <title>Posts on Tech Hub</title>
     <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <description>Recent content in Posts on Tech Hub</description>
     <generator>Hugo 0.125.0</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Thu, 18 Apr 2024 20:04:28 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/posts/about/</link>
+      <pubDate>Thu, 18 Apr 2024 20:04:28 -0400</pubDate>
+      <guid>http://localhost:1313/posts/about/</guid>
+      <description>About Page About the Workshop Meet your instructors and learn about our mission at the Ali Forney Center - 307 W 38th St FL 3.&#xA;Hosted by: Calyx Padgett and Unity Works.&#xA;Instructor&amp;rsquo;s Bio: Calyx brings expertise from a Computer Science background at Rose-Hulman and personal insights from the cybersecurity field, aiming to empower individuals with the knowledge to protect their digital lives.&#xA;About Ali Forney Center: Dedicated to LGBTQ+ youth, the center provides a safe space for learning and personal growth.</description>
+    </item>
   </channel>
 </rss>
