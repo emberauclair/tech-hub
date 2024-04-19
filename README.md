@@ -32,17 +32,17 @@ hugo new posts/<filename>.md
 3. **Workshops** - Planned link `/workshops`
 4. **Phishing Awareness** - Planned link `/phishing`
 5. **Learning AI** - Planned link `/learning-ai`
-6. **For Developers** - Planned link `/for-developers`
 
 ## !!!!!!!!!!!!!!!!!!!!!!!!!!!!
 ## TO RUN !!!
 to run:
 new terminal vs code
 cd my-hugo-site
+hugo server -d 
 
 
-## TODOS 2024.04.18 08.00 PM 
-run these comands
+## DONE COMMANDS 2024.04.18 08.00 PM 
+run these commands
 
 mkdir content
 
@@ -54,3 +54,11 @@ hugo new posts/phishing-awareness.md
 hugo new posts/learning-ai.md
 hugo new posts/for-developers.md
 
+## put content in files 2024.04.18 08.05 PM 
+
+TODOS
+- [ ] 
+
+link everything together like so
+[Ali Forney Center](/ali-forney-center/)
+[Unity Works](/unity-works/)
