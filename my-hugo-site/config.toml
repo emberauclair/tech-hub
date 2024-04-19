@@ -1,7 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Tech Hub'
-theme = "paper"
 
 [module]
   [[module.imports]]
@@ -11,15 +10,15 @@ disqusShortname = 'tech-hub-5'   # use disqus comments
 
 [params]
   # color style
-  color = 'linen'                           # linen, wheat, gray, light
+  color = 'linen'   # linen, wheat, gray, light
 
   # header social icons
   github = "https://github.com/emberauclair"
-  rss = true                                # show rss icon
+  rss = true   # show rss icon
 
   # home page profile
   name = 'Amber Padgett'
   bio = 'Amber is a NYC-based coder with a flair for creating elegant solutions in Python and Java. When not immersed in the digital realm, she explores the artistry of stippling and the nuances of color science'
 
   # misc
-  math = true                               # enable KaTeX math typesetting globally
+  math = true   # enable KaTeX math typesetting globally
