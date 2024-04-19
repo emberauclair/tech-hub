@@ -41,8 +41,11 @@ new terminal vs code
 cd my-hugo-site
 
 
-## TODOS
+## TODOS 2024.04.18 08.00 PM 
 run these comands
+
+mkdir content
+
 
 hugo new posts/home.md
 hugo new posts/about.md
