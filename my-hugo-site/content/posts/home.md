@@ -33,7 +33,7 @@ For more information or to get involved, contact us at:
 - **Email:** calyxpadgett@gmail.com
 
 ## Explore More
-- **[[V5 About Page]]**: Learn more about our mission and vision.
+- **[[About]]**: Learn more about our mission and vision.
 - **[Cyber Security Workshop](#)**: Dive deeper into our cybersecurity workshop details.
 - **[Phishing Awareness](#)**: Get more resources on identifying phishing schemes.
 - **[Learning AI and Applications](#)**: Discover how AI can be leveraged in technology and beyond.

@@ -18,7 +18,7 @@ AI offers unparalleled efficiency and can assist in complex tasks including:
 ## Getting Started with AI
 Embark on your AI journey with these foundational steps:
 1. **Understand the Basics:** Learn the fundamentals of AI, including machine learning, natural language processing, and neural networks.
-2. **Choose the Right Tools:** Familiarize yourself with AI tools that can integrate into your current tech stack. Tools like TensorFlow, Python libraries like scikit-learn, and platforms like Google AI are great starting points.
+2. **Choose the Right Tools:** [AI Tools!!](/posts/ai-tools/) 
 3. **Apply AI to Your Projects:** Start with small, manageable projects to integrate AI into your work. For example, use AI to optimize your website’s user experience or automate part of your coding workflow.
 
 ## Areas to Further Explore

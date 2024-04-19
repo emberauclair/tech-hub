@@ -6,14 +6,49 @@
     <description>Recent content in Posts on Tech Hub</description>
     <generator>Hugo 0.125.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Apr 2024 20:04:28 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 18 Apr 2024 20:04:29 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Learning Ai</title>
+      <link>http://localhost:1313/posts/learning-ai/</link>
+      <pubDate>Thu, 18 Apr 2024 20:04:29 -0400</pubDate>
+      <guid>http://localhost:1313/posts/learning-ai/</guid>
+      <description>AI Learning Page and applications Welcome to the exciting world of Artificial Intelligence (AI)! AI is a transformative force in technology, capable of processing and analyzing data at speeds incomprehensible to the human mind. Here, we explore how you can harness AI to enhance your creativity, decision-making, and productivity, especially in fields like web development, text handling, coding, brainstorming, planning, and management.&#xA;Why AI? AI offers unparalleled efficiency and can assist in complex tasks including:</description>
+    </item>
+    <item>
+      <title>Phishing Awareness</title>
+      <link>http://localhost:1313/posts/phishing-awareness/</link>
+      <pubDate>Thu, 18 Apr 2024 20:04:29 -0400</pubDate>
+      <guid>http://localhost:1313/posts/phishing-awareness/</guid>
+      <description>Phishing Awareness Understanding the landscape of scams and how to protect oneself is crucial. This page covers top scams, financial exploitation, cognitive behavior, types of scams, tools used in scams, and more.&#xA;Top Local Scams in 2024 Geek squad account takeovers Amazon customer support fraud Virus protection scams Mail theft Grocery store distractions Compromised bank accounts Federal investigation schemes Wire transfer fraud Computer Scams Awareness of the various forms of computer scams is key to protecting yourself and your assets.</description>
+    </item>
     <item>
       <title>About</title>
       <link>http://localhost:1313/posts/about/</link>
       <pubDate>Thu, 18 Apr 2024 20:04:28 -0400</pubDate>
       <guid>http://localhost:1313/posts/about/</guid>
       <description>About Page About the Workshop Meet your instructors and learn about our mission at the Ali Forney Center - 307 W 38th St FL 3.&#xA;Hosted by: Calyx Padgett and Unity Works.&#xA;Instructor&amp;rsquo;s Bio: Calyx brings expertise from a Computer Science background at Rose-Hulman and personal insights from the cybersecurity field, aiming to empower individuals with the knowledge to protect their digital lives.&#xA;About Ali Forney Center: Dedicated to LGBTQ+ youth, the center provides a safe space for learning and personal growth.</description>
+    </item>
+    <item>
+      <title>AI tools</title>
+      <link>http://localhost:1313/posts/ai-tools/</link>
+      <pubDate>Thu, 18 Apr 2024 20:04:28 -0400</pubDate>
+      <guid>http://localhost:1313/posts/ai-tools/</guid>
+      <description>AI Tools Explore a curated selection of AI tools designed to boost productivity, streamline workflows, and enhance research. Whether you&amp;rsquo;re diving into AI research, seeking assistance with tasks, or needing a companion for brainstorming, these tools are here to help.&#xA;Research and Innovation ELICIT: Navigate the forefront of AI research with this AI research assistant, designed to structure and streamline your literature review process.&#xA;Payman: (Link needed) Utilize AI to delegate tasks effortlessly.</description>
+    </item>
+    <item>
+      <title>Home</title>
+      <link>http://localhost:1313/posts/home/</link>
+      <pubDate>Thu, 18 Apr 2024 20:04:28 -0400</pubDate>
+      <guid>http://localhost:1313/posts/home/</guid>
+      <description>Home Page Welcome to My Tech Resources Learn to protect your digital life effectively. Join us for an engaging workshop where you&amp;rsquo;ll learn the essentials of protecting your digital presence.&#xA;What You Will Learn: Understanding Cyber Threats: Explore how AI and quantum computing shape modern cybersecurity threats. Essential Tools: Learn to secure your passwords against AI-powered attacks using tools like Bitwarden. DiceWare: Create robust, yet memorable passwords. Phishing Awareness: Identify and avoid deceptive phishing attacks.</description>
+    </item>
+    <item>
+      <title>Workshops</title>
+      <link>http://localhost:1313/posts/workshops/</link>
+      <pubDate>Thu, 18 Apr 2024 20:04:28 -0400</pubDate>
+      <guid>http://localhost:1313/posts/workshops/</guid>
+      <description>Workshop Page Practical Cybersecurity and the Threat of AI and Quantum Computing A basic and practical lecture on how to stay safe, protect your privacy, and keep from being hacked.&#xA;Instructor Qualifications: 2 years at Rose-Hulman for Computer Science. Insight from Cyber Security for Rolls Royce&amp;rsquo;s Jet Engines, experience at 2 different startups, and government contracting.&#xA;Tools and Resources: Free Password Manager - Bitwarden DiceWare for Generating Secure Passwords SurfSharkVpn - keeps you safe online Phishing Attacks: Understand what it is, why it matters, and how to protect yourself.</description>
     </item>
   </channel>
 </rss>
